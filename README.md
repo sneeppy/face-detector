@@ -11,7 +11,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_ЛОГИН/face-detector.git
+   git clone https://github.com/sneeppy/face-detector.git
    cd face-detector
    ```
 
